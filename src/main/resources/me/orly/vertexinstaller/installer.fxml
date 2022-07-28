@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/17.0.1" fx:controller="me.orly.vertexinstaller.Controller" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" style="-fx-background-color: rgb(20,20,20);;" VBox.vgrow="ALWAYS">
+            <children>
+                <Button layoutX="452.0" layoutY="345.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="174.0" style="-fx-background-color: rgb(30,30,30);;" text="Install Vertex" textFill="#d3d3d3" onAction="#InstallButton"/>
+                <Button layoutX="14.0" layoutY="345.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="174.0" style="-fx-background-color: rgb(30,30,30);;" text="View Github" textFill="#d3d3d3" onAction="#OpenGithub" />
+                <ImageView fitHeight="56.0" fitWidth="50.0" layoutX="14.0" layoutY="14.0" opacity="0.79" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@images/logo.png" />
+                    </image>
+                </ImageView>
+
+                <Text id="installerText" fill="#c9c9c9" layoutX="174.0" layoutY="84.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Vertex Installer" textAlignment="CENTER" wrappingWidth="292.13671875" />
+            </children>
+        </AnchorPane>
+    </children>
+</VBox>
