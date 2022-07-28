@@ -11,9 +11,9 @@ Trollage Client a/k/a "Project Vertex" is a 1.19 fabric mod with useful features
 
 <br>
 
-<img src="https://img.shields.io/github/stars/AstralDB/TrollageClient?color=000000&style=for-the-badge"/><br>
-<a href="https://github.com/AstralDB/TrollageClient/raw/main/bin/latest.jar">
-  <img src="https://img.shields.io/github/downloads/AstralDB/TrollageClient/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
+<img src="https://img.shields.io/github/stars/AstralDB/VertexInstaller?color=000000&style=for-the-badge"/><br>
+<a href="https://github.com/AstralDB/VertexInstaller/releases/download/v0.1.0-alpha/VertexInstaller-1.0-SNAPSHOT.jar">
+  <img src="https://img.shields.io/github/downloads/AstralDB/VertexInstaller/total?color=000000&style=for-the-badge&label=Downloads%20via%20releases">
 </a>
 
 ## Installation
