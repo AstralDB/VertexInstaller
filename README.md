@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/AstralDB/VertexInstaller/raw/main/images/logo.png" width="100">
   <br>
-  
 </div>
 <hr>
 
